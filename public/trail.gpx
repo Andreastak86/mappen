@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ChatGPT Dummy GPX"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+    http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <name>Dummy Trail Loop</name>
+    <desc>En test-rute med flere punkter</desc>
+  </metadata>
+
+  <trk>
+    <name>Test Loop Route</name>
+    <trkseg>
+      <trkpt lat="62.32699" lon="6.71989"><ele>50</ele><time>2025-09-29T10:00:00Z</time></trkpt>
+      <trkpt lat="62.32750" lon="6.72200"><ele>55</ele><time>2025-09-29T10:05:00Z</time></trkpt>
+      <trkpt lat="62.32820" lon="6.72450"><ele>60</ele><time>2025-09-29T10:10:00Z</time></trkpt>
+      <trkpt lat="62.32870" lon="6.72700"><ele>62</ele><time>2025-09-29T10:15:00Z</time></trkpt>
+      <trkpt lat="62.32800" lon="6.72950"><ele>58</ele><time>2025-09-29T10:20:00Z</time></trkpt>
+      <trkpt lat="62.32700" lon="6.73050"><ele>55</ele><time>2025-09-29T10:25:00Z</time></trkpt>
+      <trkpt lat="62.32620" lon="6.72800"><ele>52</ele><time>2025-09-29T10:30:00Z</time></trkpt>
+      <trkpt lat="62.32699" lon="6.71989"><ele>50</ele><time>2025-09-29T10:35:00Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

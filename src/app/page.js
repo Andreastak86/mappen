@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import MapContainer from "@/components/MapContainer";
 
 const LafjelletMap = dynamic(() => import("@/components/LafjelletMap"), {
     ssr: false,
@@ -12,6 +13,7 @@ export default function HomePage() {
             <h1 className='text-2xl font-semibold'>Lafjellet GPX Map</h1>
             <div className='w-full max-w-5xl h-[60vh]'>
                 <LafjelletMap />
+                <MapContainer />
             </div>
         </main>
     );
